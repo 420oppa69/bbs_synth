@@ -7,16 +7,16 @@
 
 ## Verfügbare Komponenten:
     ICs:
-    - NE555
-    - LM324
-    - LM393
-    - UA741
-    - ULN2803
-    - LM358
-    - LM386
-    - NE5532
-    - ULN2003
-    - PC817
+    - NE555 Timer
+    - LM324 4Ch OP
+    - LM393 2Ch Comparator
+    - UA741 OP
+    - ULN2803  Darlington Array
+    - LM358 2Ch OP HF
+    - LM386 Audio Amp Class AB
+    - NE5532 2Ch Op für Audio
+    - ULN2003 Darlington Array
+    - PC817 Optokoppler
 
 ## Generell:
 -Für jeden Klinkeneingang ein Impedanzwandler? Wegen der Last
